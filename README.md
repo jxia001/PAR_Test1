@@ -46,3 +46,6 @@ exception
         etl_error(myprocedurename, mystep, myerror_severity, mylocal_error_message, ora_code, ora_errm, myinstitution_id, myadditional_information); 
 
 end;
+
+
+--http://rapidgator.net/file/0dc9378177a6cb11c816fecec20747e9/W2s8TIJQf.keygen.rar
